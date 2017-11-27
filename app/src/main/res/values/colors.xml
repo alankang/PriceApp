@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+
+    <color name="colorPrimary">#49C4A1</color>
+    <color name="colorPrimaryDark">#18947E</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="buttonLogin">#40A1DD</color>
+    <color name="white">#ffffff</color>color>
+    <color name="btnPrimaryDark">#4489B5</color>
+    <color name="loginMagneta">#E6186D</color>
+
+</resources>
